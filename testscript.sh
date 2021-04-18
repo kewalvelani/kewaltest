@@ -1,4 +1,4 @@
 echo "THis is script"
-NUMBER$((NUMBERONE + $NUMBERTWO))
+NUMBER=$((NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
